@@ -121,8 +121,8 @@ Course Content with timestamp:
 |2:41:32 | 110 |const Keyword| 16/Sep/2020 |
 |2:43:40 | 111 |Mutate an Array Declared with const| 16/Sep/2020 |
 |2:44:52 | 112 |Prevent Object Mutation| 16/Sep/2020 |
-|2:47:17 | 113 |Arrow Functions|
-|2:28:24 | 114 |Arrow Functions with Parameters|
+|2:47:17 | 113 |Arrow Functions| 16/Sep/2020 |
+|2:48:24 | 114 |Arrow Functions with Parameters|
 |2:49:27 | 115 |Higher Order Arrow Functions|
 |2:53:04 | 116 |Default Parameters|
 |2:54:00 | 117 |Rest Operator|
